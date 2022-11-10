@@ -1,5 +1,13 @@
 # Proyecto-Individual-3-Data04
 
+# Trabajo Realizado
+Se Realizo un proceso de ETL con Python (en el presente Repo se encuentra el Script de Python Comentado y detallado cada uno de los precedimientos)
+
+En Segundo lugar se importo el cvs ya procesado, se creo e ingestó un base de Datos con MySQL.
+
+Finalmente se importo la Base de Datos y se creo el Dasboard con Power Bi.
+
+
 # Diccionario de Datos
 
 • Fecha: Fecha del accidente.
@@ -39,7 +47,7 @@ Es necesario normalizar los nombres de las columnas, por distintos idiomas y car
 En la deteccion de nulos y faltantes, se decide conservarlos para no desestimar el resto de datos de las filas.
 
 
-Stack tecnológico:
+# Stack tecnológico:
 
 + `Python`: EDA + transformaciones 
 + `SQL`: base de datos
